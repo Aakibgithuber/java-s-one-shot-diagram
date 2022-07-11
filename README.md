@@ -1,0 +1,1 @@
+# java-s-one-shot-diagram
